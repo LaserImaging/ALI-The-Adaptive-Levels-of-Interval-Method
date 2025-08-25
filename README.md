@@ -31,6 +31,12 @@ The repository contains three MATLAB files.
 This paper describes the development of a new laser speckle imaging method for extracting speckle patterns' temporal activity information with superior extraction and discrimination capabilities. It is based on a novel mechanism which uses the speckle images, in an unconventional manner, through adapting the levels of their interval, to deal with the scattering medium that contains regions with different activity scales. This mechanism overcomes the discrimination inability of the other processing methods when they deal with such a medium and speeds up the process of activity map calculation. The developed speckle processing method was evaluated using numerical and graphical evaluation tests, the results showing the efficacy of using the adapting mechanism for the levels of interval. Experimental tests were also undertaken on the proposed method to validate its ability with real speckle images, obtained through a series of experiments performed using a laser speckle imaging system. The experimental results show the high discrimination and activity extraction capabilities of this method against the speckle processing methods and validate its ability to deal with multi-spectral real speckle images. The developed method achieved a faster processing performance in comparison with traditional methods when processing temporal information for the speckle images and calculating the map of their activity.
 
 
+In return for making this code available, I would appreciate that you cite the following publications:
+
+* Ali A. Al-Temeemy, ALI: The adaptive levels of interval method for processing laser speckle images with superior activity extraction and discrimination capabilities, Optics and Lasers in Engineering, Volume 178,
+2024, 108173, ISSN 0143-8166, https://doi.org/10.1016/j.optlaseng.2024.108173
+
+* Al-Temeemy AA. The Methodology of Adaptive Levels of Interval for Laser Speckle Imaging. Journal of Imaging. 2024; 10(11):289. https://doi.org/10.3390/jimaging10110289
 
 How to cite this repository:
 
